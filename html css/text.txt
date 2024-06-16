@@ -1,0 +1,77 @@
+html stands for hypertext markup language
+
+Sure, here's a list of some common HTML tags:
+
+1. **Document Structure:**
+   - `<!DOCTYPE>`: Declaration of the HTML version.
+   - `<html>`: Root element of an HTML page.
+   - `<head>`: Container for metadata.
+   - `<title>`: Title of the document.
+   - `<body>`: Container for the content of the document.
+
+2. **Text Formatting:**
+   - `<p>`: Paragraph.
+   - `<h1>` to `<h6>`: Headings of different levels.
+   - `<strong>` or `<b>`: Bold text.
+   - `<em>` or `<i>`: Italic text.
+   - `<u>`: Underlined text.
+   - `<sub>`: Subscript text.
+   - `<sup>`: Superscript text.
+   - `<br>`: Line break.
+   - `<hr>`: Horizontal rule.
+
+3. **Links and Images:**
+   - `<a>`: Anchor (hyperlink).
+   - `<img>`: Image.
+   - `<figure>`: Container for media content.
+   - `<figcaption>`: Caption for a `<figure>`.
+
+4. **Lists:**
+   - `<ul>`: Unordered list.
+   - `<ol>`: Ordered list.
+   - `<li>`: List item.
+   - `<dl>`: Definition list.
+   - `<dt>`: Definition term.
+   - `<dd>`: Definition description.
+
+5. **Tables:**
+   - `<table>`: Defines a table.
+   - `<thead>`, `<tbody>`, `<tfoot>`: Table sections (header, body, footer).
+   - `<tr>`: Table row.
+   - `<th>`: Table header cell.
+   - `<td>`: Table data cell.
+   - `<caption>`: Table caption.
+
+6. **Forms:**
+   - `<form>`: Form container.
+   - `<input>`: Input field.
+   - `<textarea>`: Multiline text input.
+   - `<select>`: Dropdown list.
+   - `<option>`: Option in a `<select>` dropdown.
+   - `<button>`: Button.
+   - `<label>`: Label for an `<input>` element.
+
+7. **Semantic Markup:**
+   - `<header>`: Header section.
+   - `<nav>`: Navigation links.
+   - `<main>`: Main content of the document.
+   - `<article>`: Independent, self-contained content.
+   - `<section>`: Section of a document.
+   - `<aside>`: Sidebar content.
+   - `<footer>`: Footer section.
+
+8. **Metadata:**
+   - `<meta>`: Metadata about the HTML document.
+   - `<base>`: Base URL for relative URLs in a document.
+
+9. **Interactive Elements:**
+   - `<button>`: Button.
+   - `<details>`: Disclosure widget.
+   - `<summary>`: Summary or caption for `<details>`.
+
+10. **Embedded Content:**
+    - `<iframe>`: Inline frame (embeds another HTML page).
+    - `<embed>`: Embeds external content.
+    - `<object>`: Embedded object.
+
+This list covers many common HTML tags, but there are more specialized tags for specific purposes or newer HTML standards.
